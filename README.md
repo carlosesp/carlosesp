@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Carlos Espíritu.
+- 👀 I’m interested in application development mainly using Java and its distinct frameworks.
+- 🌱 I’m currently learning Spring Cloud Contract and Quarkus.
+- 💞️ I’m looking to collaborate on Java related projects.
+- 📫 How to reach me: carlosespiritu.pe@gmail.com
